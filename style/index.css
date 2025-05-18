@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+
+.page-area {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    overflow-y: hidden;
+}
+
+.bottom-extension {
+    width: 100vw;
+    height: 18vh;
+    margin-top: 82vh;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.left-area {
+}
+
+.center-area {
+
+}
+
+.center-area div {
+    
+}
+
+.right-area {
+
+}
+
+.background-first {
+    background:
+        radial-gradient(ellipse 55% 50% at 50% 0%, #627EC4, #07035200),
+        radial-gradient(ellipse 55% 30% at bottom, #C46262, #52030300);
+    background-color: #000000;
+}
+
+.background-second {
+}
+
+.start-page {
+    margin-top: 14vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.start-page div {
+    align-self: center;
+    color: white;
+    margin-top: 1vh;
+}
