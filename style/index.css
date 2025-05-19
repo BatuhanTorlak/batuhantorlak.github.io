@@ -38,8 +38,8 @@
 
 .background-first {
     background:
-        radial-gradient(ellipse 55% 50% at 50% 0%, #627EC4, #07035200),
-        radial-gradient(ellipse 55% 30% at bottom, #C46262, #52030300);
+        radial-gradient(ellipse 55% 50% at 50% 0%, #273a69, #07035200),
+        radial-gradient(ellipse 55% 30% at bottom, #833131, #52030300);
     background-color: #000000;
 }
 
